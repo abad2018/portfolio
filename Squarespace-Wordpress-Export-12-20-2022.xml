@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Abdalla's Portfolio</title>
+    <link>https://sunflower-trout-584w.squarespace.com</link>
+    <pubDate>Mon, 19 Dec 2022 23:05:12 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-113482626</wp:author_id>
+      <wp:author_login>abdallaabadri@gmail.com</wp:author_login>
+      <wp:author_email>abdallaabadri@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Abdalla Badri]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Abdalla]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Badri]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Tue, 20 Dec 2022 02:04:54 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63a0ee3db82d6454bc03d204" id="sections">
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="dark-bold"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+    
+      
+    
+    
+    dark-bold'
+  
+  data-section-id="63a0ee3db82d6454bc03d207"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 16,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 100,
+  &quot;sectionTheme&quot;: &quot;dark-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+   
+  
+     style="min-height: 16vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+           padding-top: calc(16vmax / 5);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 100%;" 
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-63a0ee3db82d6454bc03d207"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2aec1007d455beaab0b8"><div class="sqs-block-content">
+
+<h1 style="white-space:pre-wrap;">Hello! </h1>
+
+
+</div></div><div class="row sqs-row"><div class="col sqs-col-7 span-7"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-899b6c461c01056fd4d5"><div class="sqs-block-content">
+
+<h1 style="white-space:pre-wrap;">My name is Abdalla Badri and I am an aspiring product designer with a desire to innovate products tailored to human behavior</h1>
+
+
+</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-11b954492cf889aed03f"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-collide
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description=""
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:79.96453857421875%;
+                
+                overflow: hidden;
+              "
+              >
+                
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132945-YITNYAZZ3M5OGRN7PNNX/Assembly.JPG" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132945-YITNYAZZ3M5OGRN7PNNX/Assembly.JPG" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132945-YITNYAZZ3M5OGRN7PNNX/Assembly.JPG" data-image-dimensions="1692x1353" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="63a0ee3cb82d6454bc03d1f1" data-type="image" />
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-0 span-0"></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-497aa6518df5a3cccafc"><div class="sqs-block-content"><hr /></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="63a0ee3db82d6454bc03d209"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+   
+  
+    
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-63a0ee3db82d6454bc03d209"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a6ad46cd6fa6fb9cae74"><div class="sqs-block-content">
+
+<h2 style="white-space:pre-wrap;">I am a well-rounded designer skilled in design thinking, ideation, and especially in user testing. I have a wide variety of design projects under my belt. </h2><h3 style="white-space:pre-wrap;">I’m currently seeking full-time roles in product design and user experience research. In terms of professional experience, I spent 9 months on the Product Design Validation team at Apple where I became proficient in designing and conducting user studies, CAD modeling, and analyzing and presenting data. I can’t share details of what I’ve worked on, but the skills I’ve developed were invaluable.</h3><h3 style="white-space:pre-wrap;">I hope you enjoy looking through my projects. Please feel free to reach out!</h3>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      gallery-section
+      full-bleed-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="63a0ee3db82d6454bc03d20a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+  data-json-schema-section 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          <div class="gallery" style="min-height: 100px;">
+  
+    <!-- Gallery Grid -->
+
+<div
+  class="gallery-grid gallery-grid--layout-grid"
+  data-controller="GalleryGrid"
+  
+  data-section-id="63a0ee3db82d6454bc03d20a"
+  data-animation="site-default"
+  data-lightbox=""
+  data-width="inset"
+  data-aspect-ratio="four-three"
+  data-columns="3"
+  data-gutter="35"
+  data-props='{
+  "aspectRatio": "four-three",
+  "scrollAnimation": "site-default",
+  "gutter": 35,
+  "numColumns": 3,
+  "width": "inset",
+  "lightboxEnabled": true
+}'
+  data-show-captions="true"
+  data-test="gallery-grid-simple"
+>
+  <div class="gallery-grid-wrapper">
+    
+    <figure class="gallery-grid-item has-clickthrough">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          <a
+              href="https://www.abdallabadri.com/projects/mobile-office"
+              
+              class="gallery-grid-image-link"
+              data-no-animation>
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132965-CERIJ20VT9NO09PU5U7S/CarGo+Schematic.png" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132965-CERIJ20VT9NO09PU5U7S/CarGo+Schematic.png" data-image-dimensions="1450x798" data-image-focal-point="0.5,0.5" alt="Mobile Office Redesign: My design capstone in which I redesigned a desk product to better fit the market"  data-load="false" />
+          
+        
+          </a>
+        
+      </div>
+      
+        
+          <figcaption class="gallery-caption gallery-caption-grid-simple">
+            <div class="gallery-caption-wrapper">
+              <p class="gallery-caption-content">Mobile Office Redesign: My design capstone in which I redesigned a desk product to better fit the market</p>
+            </div>
+          </figcaption>
+        
+      
+    </figure>
+    
+    <figure class="gallery-grid-item has-clickthrough">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          <a
+              href="https://www.abdallabadri.com/projects/cocoon"
+              
+              class="gallery-grid-image-link"
+              data-no-animation>
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132992-V97C64K0P45DVTFOH9RR/IMG_2835.JPG" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132992-V97C64K0P45DVTFOH9RR/IMG_2835.JPG" data-image-dimensions="1334x1179" data-image-focal-point="0.5,0.5" alt="Sleep Cocoon: My first product design project that allowed me to express my passion and creativity"  data-load="false" />
+          
+        
+          </a>
+        
+      </div>
+      
+        
+          <figcaption class="gallery-caption gallery-caption-grid-simple">
+            <div class="gallery-caption-wrapper">
+              <p class="gallery-caption-content">Sleep Cocoon: My first product design project that allowed me to express my passion and creativity</p>
+            </div>
+          </figcaption>
+        
+      
+    </figure>
+    
+    <figure class="gallery-grid-item has-clickthrough">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          <a
+              href="https://www.abdallabadri.com/projects/shimmy-tie"
+              
+              class="gallery-grid-image-link"
+              data-no-animation>
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132971-YPE3CM8A9MQ60WRW3OXO/Picture2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132971-YPE3CM8A9MQ60WRW3OXO/Picture2.jpg" data-image-dimensions="451x429" data-image-focal-point="0.5,0.5" alt="Shimmy Tie: Device to allow people with hemiplegia to tie their hair unassisted"  data-load="false" />
+          
+        
+          </a>
+        
+      </div>
+      
+        
+          <figcaption class="gallery-caption gallery-caption-grid-simple">
+            <div class="gallery-caption-wrapper">
+              <p class="gallery-caption-content">Shimmy Tie: Device to allow people with hemiplegia to tie their hair unassisted</p>
+            </div>
+          </figcaption>
+        
+      
+    </figure>
+    
+    <figure class="gallery-grid-item has-clickthrough">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          <a
+              href="https://www.abdallabadri.com/projects/reach"
+              
+              class="gallery-grid-image-link"
+              data-no-animation>
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132978-RASXZO0WWA1NHKG7OHTZ/MVP+%282%29.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132978-RASXZO0WWA1NHKG7OHTZ/MVP+%282%29.jpeg" data-image-dimensions="1000x1332" data-image-focal-point="0.5,0.5" alt="Reach: A digital platform for peer-to-peer mental health support"  data-load="false" />
+          
+        
+          </a>
+        
+      </div>
+      
+        
+          <figcaption class="gallery-caption gallery-caption-grid-simple">
+            <div class="gallery-caption-wrapper">
+              <p class="gallery-caption-content">Reach: A digital platform for peer-to-peer mental health support</p>
+            </div>
+          </figcaption>
+        
+      
+    </figure>
+    
+    <figure class="gallery-grid-item has-clickthrough">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          <a
+              href="https://www.abdallabadri.com/projects/screen"
+              
+              class="gallery-grid-image-link"
+              data-no-animation>
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132985-92LWRPK29AHIQ4P0HRJ9/Picture3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132985-92LWRPK29AHIQ4P0HRJ9/Picture3.jpg" data-image-dimensions="467x622" data-image-focal-point="0.5,0.5" alt="Screen Attachment: Manufacturing and design of a new form of window screen after standard products fell short"  data-load="false" />
+          
+        
+          </a>
+        
+      </div>
+      
+        
+          <figcaption class="gallery-caption gallery-caption-grid-simple">
+            <div class="gallery-caption-wrapper">
+              <p class="gallery-caption-content">Screen Attachment: Manufacturing and design of a new form of window screen after standard products fell short</p>
+            </div>
+          </figcaption>
+        
+      
+    </figure>
+    
+    <figure class="gallery-grid-item has-clickthrough">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          <a
+              href="https://www.abdallabadri.com/side-projects/side-projects"
+              
+              class="gallery-grid-image-link"
+              data-no-animation>
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491133000-OTWGBV3WUISMS18R8K2Z/Screenshot%2B%252828%2529.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491133000-OTWGBV3WUISMS18R8K2Z/Screenshot%2B%252828%2529.jpg" data-image-dimensions="1533x1450" data-image-focal-point="0.5,0.5" alt="Side Projects: Gallery of side projects including renderings and design competitions"  data-load="false" />
+          
+        
+          </a>
+        
+      </div>
+      
+        
+          <figcaption class="gallery-caption gallery-caption-grid-simple">
+            <div class="gallery-caption-wrapper">
+              <p class="gallery-caption-content">Side Projects: Gallery of side projects including renderings and design competitions</p>
+            </div>
+          </figcaption>
+        
+      
+    </figure>
+    
+  </div>
+  
+    <div
+      class="gallery-lightbox-outer-wrapper"
+      data-lightbox="true"
+      data-controller="Lightbox"
+      data-lightbox-section-id=63a0ee3db82d6454bc03d20a
+    >
+      <div
+  role="dialog"
+  aria-label=""
+  class="
+    gallery-lightbox
+    
+    bright
+  "
+>
+  <div class="gallery-lightbox-background"></div>
+
+<div class="gallery-lightbox-header">
+  <button class="gallery-lightbox-close-btn" aria-label="" data-close data-test="gallery-lightbox-close">
+    <div class="gallery-lightbox-close-btn-icon">
+      <svg viewBox="0 0 40 40">
+        <path d="M4.3,35.7L35.7,4.3"/>
+        <path d="M4.3,4.3l31.4,31.4"/>
+      </svg>
+    </div>
+  </button>
+</div>
+
+
+  <div class="gallery-lightbox-wrapper">
+    <div class="gallery-lightbox-list">
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="lmr0ko4pw6qoz4m8t7z3k9pur1du21-j8fyw"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132965-CERIJ20VT9NO09PU5U7S/CarGo+Schematic.png" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132965-CERIJ20VT9NO09PU5U7S/CarGo+Schematic.png" data-image-dimensions="1450x798" data-image-focal-point="0.5,0.5" alt="Mobile Office Redesign: My design capstone in which I redesigned a desk product to better fit the market" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="x0pdxvaoxd9dartufr4gflux1skh60-nmt4y"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132992-V97C64K0P45DVTFOH9RR/IMG_2835.JPG" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132992-V97C64K0P45DVTFOH9RR/IMG_2835.JPG" data-image-dimensions="1334x1179" data-image-focal-point="0.5,0.5" alt="Sleep Cocoon: My first product design project that allowed me to express my passion and creativity" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="izyymbkf7o7bh0t9sc3e998y69fsml-y7bbf"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132971-YPE3CM8A9MQ60WRW3OXO/Picture2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132971-YPE3CM8A9MQ60WRW3OXO/Picture2.jpg" data-image-dimensions="451x429" data-image-focal-point="0.5,0.5" alt="Shimmy Tie: Device to allow people with hemiplegia to tie their hair unassisted" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="j9heaw6ygthgddt4h6jfseo7b0k6q9-7dxkr"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132978-RASXZO0WWA1NHKG7OHTZ/MVP+%282%29.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132978-RASXZO0WWA1NHKG7OHTZ/MVP+%282%29.jpeg" data-image-dimensions="1000x1332" data-image-focal-point="0.5,0.5" alt="Reach: A digital platform for peer-to-peer mental health support" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="yy15l672ts4ne8rfgeecce1xftvpzl-g5c36"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132985-92LWRPK29AHIQ4P0HRJ9/Picture3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491132985-92LWRPK29AHIQ4P0HRJ9/Picture3.jpg" data-image-dimensions="467x622" data-image-focal-point="0.5,0.5" alt="Screen Attachment: Manufacturing and design of a new form of window screen after standard products fell short" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="i37uafeybzbcvwhfcrkbh8x03b5mij-msd6f"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491133000-OTWGBV3WUISMS18R8K2Z/Screenshot%2B%252828%2529.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491133000-OTWGBV3WUISMS18R8K2Z/Screenshot%2B%252828%2529.jpg" data-image-dimensions="1533x1450" data-image-focal-point="0.5,0.5" alt="Side Projects: Gallery of side projects including renderings and design competitions" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+    </div>
+
+    <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+  <div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+    <button class="gallery-lightbox-control-btn" aria-label="">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+  <div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+    <button class="gallery-lightbox-control-btn" aria-label="">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+
+  </div>
+</div>
+
+    </div>
+  
+</div>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</div>
+        </div>
+      
+      
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="63a0ee3db82d6454bc03d20d"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.37,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 28,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 41,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;liquid&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+   
+  
+     style="min-height: 28vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(28vmax / 10); padding-bottom: calc(28vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 41%;" 
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-63a0ee3db82d6454bc03d20d"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-88b77f2add2e225c03e3"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">Featured Work</h3>
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-fb506a2cd8621c6c16e9"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-slide-up
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1450px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/projects/mobile-office"
+              
+          >
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:55.034481048583984%;
+                
+                overflow: hidden;
+              "
+              >
+                
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491133013-VGIA4PBP1TPO6K3QLJGM/CarGo+Schematic.png" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491133013-VGIA4PBP1TPO6K3QLJGM/CarGo+Schematic.png" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491133013-VGIA4PBP1TPO6K3QLJGM/CarGo+Schematic.png" data-image-dimensions="1450x798" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="63a0ee3db82d6454bc03d203" data-type="image" />
+                
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-297dc6532d3de4afaa90"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/projects"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    View Projects
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="dark-bold"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    dark-bold'
+  
+  data-section-id="63a0ee3db82d6454bc03d210"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 18,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;dark-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+   
+  
+     style="min-height: 18vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(18vmax / 10); padding-bottom: calc(18vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-63a0ee3db82d6454bc03d210"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6f85f7033a2e739a119c"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">Let’s have a conversation</h3>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about-me</link>
+      <title>About Me</title>
+      <pubDate>Mon, 19 Dec 2022 23:12:25 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63a0ee29b82d6454bc03cf53" id="sections">
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="63a0ee29b82d6454bc03cf56"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 74,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 74%;" 
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-63a0ee29b82d6454bc03cf56"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-11 span-11"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="117.43295019157087" data-block-type="5" id="block-7bf27bf4b420cd1842ae"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-collage
+            combination-animation-collide
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              
+                <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491113367-D4VBWW0KH5N2O0BART8V/IMG_0145.JPG" alt="" loading="lazy"/></noscript>
+                <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491113367-D4VBWW0KH5N2O0BART8V/IMG_0145.JPG" data-image="https://images.squarespace-cdn.com/content/v1/63a0ee28b82d6454bc03cf28/1671491113367-D4VBWW0KH5N2O0BART8V/IMG_0145.JPG" data-image-dimensions="1611x1531" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h3 style="white-space:pre-wrap;">I dream of creating innovative products that change daily lives.</h3></div></div>
+              
+
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="28.172293364377182" data-block-type="21" id="block-c95684e7db6ab3e26d13"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="63a0ee29b82d6454bc03cf58"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 100,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+   
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-63a0ee29b82d6454bc03cf58"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2a16487fcb33aa215c5c"><div class="sqs-block-content">
+
+<h3 style="white-space:pre-wrap;">I am a senior at Northwestern University studying Manufacturing and Design Engineering as well as Psychology. I am passionate about working through the design process and using design thinking based on a deep understanding of human behavior.</h3>
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8e976a81e0856f4f5c12"><div class="sqs-block-content">
+
+<h3 style="white-space:pre-wrap;">Outside of what you see in my portfolio, I am interested in world flag design, sports, and fashion. On campus, I lead organizations such as the National Society of Black Engineers and the Muslim-cultural Student Association. I also love the work I do with Design for America and our Black Student Union.</h3>
+
+
+</div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about-me</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Tue, 20 Dec 2022 01:42:55 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63a0ee2bb82d6454bc03cf8e" id="sections">
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="dark-bold"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    dark-bold'
+  
+  data-section-id="63a0ee2bb82d6454bc03cf91"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 62,
+  &quot;sectionTheme&quot;: &quot;dark-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+   
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 62%;" 
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-63a0ee2bb82d6454bc03cf91"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b928ade7e83d8b53d05a"><div class="sqs-block-content">
+
+<h2 style="text-align:center;white-space:pre-wrap;">Feel free to email, call, or connect with me on <a href="https://www.linkedin.com/in/abdallabadri/">LinkedIn</a></h2><h2 style="text-align:center;white-space:pre-wrap;"><a href="mailto:abdallabadri2022@u.northwestern.edu">abdallabadri2022@u.northwestern.edu</a><br>(703) 640-8716</h2>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
